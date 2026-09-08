@@ -1,0 +1,3 @@
+*.txt
+images/
+!myfile.txt
